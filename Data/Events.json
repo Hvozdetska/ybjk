@@ -1,0 +1,374 @@
+[
+  {
+    "goalName": "Affordable and Clean Energy",
+    "goalId": 7,
+    "events": [
+      {
+        "eventName": "MIT Energy Initiative",
+        "financing": 5000000,
+        "result": 10
+      },
+      {
+        "eventName": "MIT Solar Research Conference",
+        "financing": 1000000,
+        "result": 2.56
+      },
+      {
+        "eventName": "MIT Energy Efficiency Workshop",
+        "financing": 50000,
+        "result": 0.13
+      },
+      {
+        "eventName": "MIT Clean Energy Hackathon",
+        "financing": 80000,
+        "result": 0.21
+      }
+    ]
+  },
+  {
+    "goalName": "Clean Water and Sanitation",
+    "goalId": 6,
+    "events": [
+      {
+        "eventName": "MIT Water Conservation Project",
+        "financing": 2000000,
+        "result": 5.12
+      },
+      {
+        "eventName": "MIT Clean Water Symposium",
+        "financing": 60000,
+        "result": 0.15
+      },
+      {
+        "eventName": "MIT Sanitation Innovation Challenge",
+        "financing": 70000,
+        "result": 0.18
+      }
+    ]
+  },
+  {
+    "goalName": "Sustainable Cities and Communities",
+    "goalId": 11,
+    "events": [
+      {
+        "eventName": "MIT Urban Planning and Sustainability Conference",
+        "financing": 750000,
+        "result": 1.92
+      },
+      {
+        "eventName": "MIT Green Building Project",
+        "financing": 4000000,
+        "result": 10
+      },
+      {
+        "eventName": "MIT City Design Workshop",
+        "financing": 90000,
+        "result": 0.23
+      },
+      {
+        "eventName": "MIT Sustainable Urban Development Seminar",
+        "financing": 70000,
+        "result": 0.18
+      }
+    ]
+  },
+  {
+    "goalName": "Responsible Consumption and Production",
+    "goalId": 12,
+    "events": [
+      {
+        "eventName": "MIT Recycling Initiative",
+        "financing": 1500000,
+        "result": 3.84
+      },
+      {
+        "eventName": "MIT Sustainable Agriculture Project",
+        "financing": 1800000,
+        "result": 4.61
+      },
+      {
+        "eventName": "MIT Consumer Behavior Seminar",
+        "financing": 60000,
+        "result": 0.15
+      },
+      {
+        "eventName": "MIT Waste Reduction Challenge",
+        "financing": 75000,
+        "result": 0.19
+      }
+    ]
+  },
+  {
+    "goalName": "Climate Action",
+    "goalId": 13,
+    "events": [
+      {
+        "eventName": "MIT Carbon Capture Research Project",
+        "financing": 3000000,
+        "result": 7.68
+      },
+      {
+        "eventName": "MIT Climate Change Workshop",
+        "financing": 90000,
+        "result": 0.23
+      },
+      {
+        "eventName": "MIT Climate Science Seminar",
+        "financing": 80000,
+        "result": 0.21
+      }
+    ]
+  },
+  {
+    "goalName": "Quality Education",
+    "goalId": 4,
+    "events": [
+      {
+        "eventName": "MIT Sustainability Education Program",
+        "financing": 2000000,
+        "result": 5.12
+      },
+      {
+        "eventName": "MIT Educational Innovation Workshop",
+        "financing": 90000,
+        "result": 0.23
+      },
+      {
+        "eventName": "MIT Distance Learning Seminar",
+        "financing": 75000,
+        "result": 0.19
+      }
+    ]
+  },
+  {
+    "goalName": "Life on Land",
+    "goalId": 15,
+    "events": [
+      {
+        "eventName": "MIT Biodiversity Research Initiative",
+        "financing": 2500000,
+        "result": 6.4
+      },
+      {
+        "eventName": "MIT Conservation Workshop",
+        "financing": 85000,
+        "result": 0.22
+      },
+      {
+        "eventName": "MIT Land Management Symposium",
+        "financing": 65000,
+        "result": 0.17
+      }
+    ]
+  },
+  {
+    "goalName": "Zero Hunger",
+    "goalId": 2,
+    "events": [
+      {
+        "eventName": "MIT Sustainable Agriculture Project",
+        "financing": 1800000,
+        "result": 4.61
+      },
+      {
+        "eventName": "MIT Food Security Symposium",
+        "financing": 80000,
+        "result": 0.21
+      },
+      {
+        "eventName": "MIT Nutrition Science Seminar",
+        "financing": 70000,
+        "result": 0.18
+      }
+    ]
+  },
+  {
+    "goalName": "Gender Equality",
+    "goalId": 5,
+    "events": [
+      {
+        "eventName": "MIT Women in Science and Engineering Conference",
+        "financing": 500000,
+        "result": 1.28
+      },
+      {
+        "eventName": "MIT Gender Equality Workshop",
+        "financing": 75000,
+        "result": 0.19
+      },
+      {
+        "eventName": "MIT Women in Tech Seminar",
+        "financing": 85000,
+        "result": 0.22
+      }
+    ]
+  },
+  {
+    "goalName": "Industry, Innovation and Infrastructure",
+    "goalId": 9,
+    "events": [
+      {
+        "eventName": "MIT Green Building Project",
+        "financing": 4000000,
+        "result": 10
+      },
+      {
+        "eventName": "MIT Tech Innovation Symposium",
+        "financing": 90000,
+        "result": 0.23
+      },
+      {
+        "eventName": "MIT Industrial Design Workshop",
+        "financing": 75000,
+        "result": 0.19
+      }
+    ]
+  },
+  {
+    "goalName": "No Poverty",
+    "goalId": 1,
+    "events": [
+      {
+        "eventName": "International Aid Conference",
+        "financing": 3000000,
+        "result": 7
+      },
+      {
+        "eventName": "Microfinance Workshop",
+        "financing": 50000,
+        "result": 0.15
+      },
+      {
+        "eventName": "Vocational Training Program",
+        "financing": 200000,
+        "result": 1.5
+      }
+    ]
+  },
+  {
+    "goalName": "Good Health and Well Being",
+    "goalId": 3,
+    "events": [
+      {
+        "eventName": "Global Health Symposium",
+        "financing": 2500000,
+        "result": 5
+      },
+      {
+        "eventName": "Medical Equipment Donation",
+        "financing": 100000,
+        "result": 0.5
+      },
+      {
+        "eventName": "Health Awareness Campaign",
+        "financing": 150000,
+        "result": 1
+      }
+    ]
+  },
+  {
+    "goalName": "Decent Work and Economic Growth",
+    "goalId": 8,
+    "events": [
+      {
+        "eventName": "Employment Fair",
+        "financing": 2000000,
+        "result": 4
+      },
+      {
+        "eventName": "SMEs Support Program",
+        "financing": 150000,
+        "result": 0.75
+      },
+      {
+        "eventName": "Job Skills Training",
+        "financing": 250000,
+        "result": 2
+      }
+    ]
+  },
+  {
+    "goalName": "Reduced Inequalities",
+    "goalId": 10,
+    "events": [
+      {
+        "eventName": "Equal Opportunities Conference",
+        "financing": 1500000,
+        "result": 3
+      },
+      {
+        "eventName": "Diversity and Inclusion Workshop",
+        "financing": 120000,
+        "result": 0.35
+      },
+      {
+        "eventName": "Support Program for Marginalized Groups",
+        "financing": 300000,
+        "result": 1.2
+      }
+    ]
+  },
+  {
+    "goalName": "Life Below Water",
+    "goalId": 14,
+    "events": [
+      {
+        "eventName": "Marine Conservation Project",
+        "financing": 3500000,
+        "result": 6
+      },
+      {
+        "eventName": "Coral Reef Restoration Program",
+        "financing": 80000,
+        "result": 0.2
+      },
+      {
+        "eventName": "Clean Ocean Initiative",
+        "financing": 500000,
+        "result": 2.5
+      }
+    ]
+  },
+  {
+    "goalName": "Peace, Justice and Strong Institutions",
+    "goalId": 16,
+    "events": [
+      {
+        "eventName": "Democracy and Governance Conference",
+        "financing": 2000000,
+        "result": 4
+      },
+      {
+        "eventName": "Judicial Reform Initiative",
+        "financing": 300000,
+        "result": 1
+      },
+      {
+        "eventName": "Peace Education Program",
+        "financing": 250000,
+        "result": 2
+      }
+    ]
+  },
+  {
+    "goalName": "Partnerships for the Goals",
+    "goalId": 17,
+    "events": [
+      {
+        "eventName": "Global Partnership Summit",
+        "financing": 4000000,
+        "result": 8
+      },
+      {
+        "eventName": "International Collaboration Workshop",
+        "financing": 100000,
+        "result": 0.3
+      },
+      {
+        "eventName": "Partnership Development Program",
+        "financing": 500000,
+        "result": 2.5
+      }
+    ]
+  }
+]
